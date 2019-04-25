@@ -93,3 +93,8 @@ Den skickar meddelande på 4 st CAN adresser:
 132 är ännu inte tolkade, men om man tittar på mängden paket så verkar 130 vara själva realtidsdata övriga är statusflaggor eller beräknade värden. Kan vara typ hastighet kanske?
 
 Att bedöma på rate:n på hur fort meddelanden skickas så är den mest troligen direkt kopplad till ESP enheten utan andra enheter på samma buss då den formligen floodar meddelande på CAN bussen.  Så man bör nog ha en isolerad CAN bus för den.
+
+
+
+![20190423_214101.jpg](:/ac3d28e8508941329de8b604e32a9d41)
+
