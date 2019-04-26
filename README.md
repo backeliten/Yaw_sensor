@@ -96,5 +96,5 @@ Att bedöma på rate:n på hur fort meddelanden skickas så är den mest trolige
 
 
 
-![20190423_214101.jpg](:/ac3d28e8508941329de8b604e32a9d41)
+![20190423_214101.jpg](/pictures/20190423_214101.jpg)
 
