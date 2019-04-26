@@ -13,8 +13,11 @@ Varav de sista är priser i sverige, lustigt nog tror man den är gjort av guld,
 # Pinout
 
 1 - 12V 
+
 2 - CAN L
+
 3 - GND
+
 4 - CAN H
 
 Förslagsvis 12V, GND och CAN H, CAN L
